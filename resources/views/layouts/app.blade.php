@@ -92,13 +92,13 @@
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>malverntigers@gmail.com<br>info@malverntigers.com.au</p>
+                  <p><a href="mailto:malverntigers@gmail.com"> malverntigers@gmail.com</a><br> <a href="mailto:info@malverntigers.com.au">info@malverntigers.com.au</a></p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
-                  <p>0477331526<br>0409470438</p>
+                  <p> <a href="tel:+610477331526">0477331526</a><br> <a href="tel:+610409470438">0409470438</a></p>
                 </div>
               </div>
             </div>
