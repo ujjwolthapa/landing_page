@@ -21,3 +21,4 @@ Route::get('/', function () {
 Route::get('/sendemail', [App\Http\Controllers\SendEmailController::class,'index'])->name('send.mail');
 //route for posting mail
 Route::post('/sendemail/send', [App\Http\Controllers\SendEmailController::class,'send'])->name('send.mails');
+
