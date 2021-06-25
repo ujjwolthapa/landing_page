@@ -42,12 +42,12 @@ body::before {
 }
 
 a {
-  color: #ececec;
+  color: white;
   text-decoration: none;
 }
 
 a:hover {
-  color: #4a70c4;
+  color: blue;
   text-decoration: none;
 }
 
