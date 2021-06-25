@@ -4,13 +4,13 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>ComingSoon - Bootstrap Coming Soon Template</title>
+  <title>MALVERN TIGERS BASKETBALL CLUB</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  {{-- <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> --}}
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
   <!-- Google Fonts -->
@@ -31,10 +31,17 @@
             margin-top:5rem;
 
     }
-    h2{
+    h3{
             display: inline-block;
             text-align: center;
             margin-right: 20px;
+    }
+    h2{
+        text-align: center;
+            margin-right: 30px;
+            font-size: 18px;
+
+
     }
     </style>    
 
@@ -54,15 +61,18 @@
     <div class="container d-flex flex-column align-items-center">
     <div id="txt">
       <h1 id="text1">MALVERN TIGERS BASKETBALL CLUB</h1>
-      <h2 id="text">Website</h2>
-      <h2 id="text">Coming</h2>
-      <h2 id="text">Soon</h2>
+      <h3 id="text">Website</h3>
+      <h3 id="text">Coming</h3>
+      <h3 id="text">Soon</h3> 
     </div>
 
     </div>
+    
   </header><!-- End #header -->
 
   <main id="main">
+    <h2 >We are a family oriented club competing in the Waverley Basketball Association with the majority of competition games being played 
+        <br>at the Waverley Basketball Association Stadium at Batesford Reserve Chadstone.</h2>
 
     <!-- ======= Contact Us Section ======= -->
     <section id="contact" class="contact">
