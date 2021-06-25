@@ -89,13 +89,13 @@
             <div class="info-wrap">
               <div class="row">
 
-                <div class="col-lg-4 info mt-4 mt-lg-0">
+                <div class="col-lg-6 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
                   <p><a href="mailto:malverntigers@gmail.com"> malverntigers@gmail.com</a><br> <a href="mailto:info@malverntigers.com.au">info@malverntigers.com.au</a></p>
                 </div>
 
-                <div class="col-lg-4 info mt-4 mt-lg-0">
+                <div class="col-lg-6 info mt-4 mt-lg-1">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
                   <p> <a href="tel:+610477331526">0477331526</a><br> <a href="tel:+610409470438">0409470438</a></p>
@@ -119,7 +119,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>ComingSoon</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>MALVERNTIGERS</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
